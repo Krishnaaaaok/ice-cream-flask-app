@@ -1,0 +1,13 @@
+{
+    "feature_names": [
+        "Temperature",
+        "Rainfall"
+    ],
+    "coefficients": {
+        "Temperature": 5.019304085985336,
+        "Rainfall": -8.857868719139832,
+        "Intercept": -232.33146489709344
+    },
+    "training_r2": 0.993674680208526,
+    "testing_r2": 0.9867534354286512
+}
